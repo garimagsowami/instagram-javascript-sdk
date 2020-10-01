@@ -12,7 +12,7 @@ You should [follow @instagramapi on Twitter](http://twitter.com/#!/instagramapi)
 updates, and news about the Instagram API.
 
 
-Join the mailing list!
+Join the mailing list by the given link!
 ----------------------
 <https://groups.google.com/group/instagram-api-developers>
 
